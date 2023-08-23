@@ -1,6 +1,7 @@
 # desafio1_flutter_dio
 
-A new Flutter project.
+Desafio proposto pelo prof. Danilo Perez na aula subindo seu projeto flutter no github da DIO,
+<img src= "/assets/img/tela-principal.jpg">
 
 ## Getting Started
 
